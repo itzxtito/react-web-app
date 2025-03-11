@@ -8,6 +8,8 @@ Beer Search is a React-based web application that allows users to browse beers, 
 - React Router  
 - JavaScript  
 - CSS  
+- Redux Toolkit
+- Fetch API
 
 ## Approach Taken  
 The project was developed using React, following a modular component-based structure to ensure scalability and maintainability. React Router was implemented to handle navigation between different pages, including the homepage, beer details, cart, and checkout. The application state is managed efficiently to track items in the cart and ensure a smooth purchasing experience.  
