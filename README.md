@@ -1,4 +1,4 @@
-# Beer Search 🍻  
+# The Beer App 🍻  
 
 ## Description  
 Beer Search is a React-based web application that allows users to browse beers, add them to a cart, and complete a purchase through a streamlined checkout process.  
