@@ -2,12 +2,12 @@ import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
 const API_URL = 'https://beer9.p.rapidapi.com/?brewery=Berkshire%20brewing%20company';
-const API_KEY = 'b232c393cdmsh807e3bbf836b436p164c90jsn5f351fcc9fa1'; // Replace with your actual API key
+const API_KEY = 'fe9dfd2f63msh62db5adaa5191b6p101fa1jsnddd941411d52';
 
 export const fetchBeverages = createAsyncThunk('beverages/fetchBeverages', async () => {
   const response = await axios.get(API_URL, {
     headers: {
-      'X-RapidAPI-Key': 'b232c393cdmsh807e3bbf836b436p164c90jsn5f351fcc9fa1',
+      'X-RapidAPI-Key':'fe9dfd2f63msh62db5adaa5191b6p101fa1jsnddd941411d52',
       'X-RapidAPI-Host': 'beer9.p.rapidapi.com',
     },
   });

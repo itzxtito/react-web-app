@@ -25,7 +25,7 @@ const Home = () => {
           {
             method: "GET",
             headers: {
-              "X-RapidAPI-Key": "b232c393cdmsh807e3bbf836b436p164c90jsn5f351fcc9fa1",
+              "X-RapidAPI-Key": "fe9dfd2f63msh62db5adaa5191b6p101fa1jsnddd941411d52",
               "X-RapidAPI-Host": "beer9.p.rapidapi.com",
             },
           }
