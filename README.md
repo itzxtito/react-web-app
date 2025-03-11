@@ -22,7 +22,7 @@ To run the project locally, follow these steps:
 
 1. **Clone the repository:**  
    ```bash
-   git clone [your-repo-link]
+   git clone [https://github.com/itzxtito/react-web-app.git]
    cd beer-app
    ```  
 
